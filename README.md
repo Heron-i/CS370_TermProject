@@ -1,4 +1,4 @@
-# CS370_TermProject
+# CS370: Term Project
 For Colorado State University's Operating Systems course, we were tasked with creating a term project that would address a real-world problem and present a solution that isn't easily solved with an application. This project suggests utilizing a low cost, single-board computer (Raspberry Pi) with a minimum of two sensors.
 
 ## Our Project: The Plant Owner's Capable Assistant (in-progress)
